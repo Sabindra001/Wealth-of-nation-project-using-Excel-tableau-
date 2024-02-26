@@ -1,31 +1,49 @@
-# Wealth of Nations Data Analysis Project
 
-## Project Overview
-This project aims to explore and analyze the "Wealth of Nations" dataset to uncover insights into global economic trends, wealth distribution, and factors influencing a nation's economic status. By leveraging the capabilities of Excel for data manipulation and Tableau for visual analytics, we provide a comprehensive examination of historical and current economic indicators.
 
-## Data Source
-The "Wealth of Nations" dataset includes a variety of economic indicators such as GDP, GNP, per capita income, and other relevant metrics spanning several decades. This data has been sourced from [SPECIFY SOURCE], ensuring both reliability and comprehensiveness.
+<div align="center"> <h1 align="center"> Hi There! I am a Data Analyst 👋 </h1> </div>
+<b>Hi, My name is Sabindra Mahato. I am a data professional.<b>
 
-## Objectives
-- To identify patterns and trends in global economic growth over time.
-- To analyze the distribution of wealth among different nations and regions.
-- To investigate the impact of various factors such as technology, policy, and geography on economic prosperity.
+<p></p>
+<div align="center"> <h1 align="center"> :nerd_face:	 DATA ANALYSIS TOOLS :nerd_face: </h1> </div>
 
-## Tools Used
-- **Microsoft Excel**: For data cleaning, preprocessing, and initial analysis.
-- **Tableau**: For creating interactive visualizations and dashboards to effectively communicate our findings.
+<b>I have experience using these data analysis tools.<b>
+<p align="center">
+<a href="https://www.w3schools.com/" onclick="window.open("https://www.w3schools.com/", "_self");"> <img src="https://www.python.org/static/community_logos/python-logo.png" alt="Python" height="60"/> </a>
+<a href="#" target="_blank"> <img src="https://www.mysql.com/common/logos/logo-mysql-170x115.png" alt="MySQL" height="85"/> </a>
+<a href="#" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Pandas_logo.svg/2560px-Pandas_logo.svg.png" alt="Pandas" height="60"/> </a>
+<a href="#" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg/512px-Microsoft_Office_Excel_%282019%E2%80%93present%29.svg.png" alt="Excel" height="60"/> </a>
+<a href="#" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Microsoft_Azure_Logo.svg/187px-Microsoft_Azure_Logo.svg.png" alt="Azure" height="60"/> </a>
+<a href="#" target="_blank"> <img src="https://www.r-project.org/logo/Rlogo.png" alt="R" height="60"/> </a>
 
-## Methodology
-1. **Data Cleaning and Preparation**: Utilizing Excel, we cleaned the dataset by removing inconsistencies, handling missing values, and standardizing data formats.
-2. **Data Analysis**: Conducted both descriptive and inferential statistical analysis to understand the underlying patterns and relationships within the data.
-3. **Visualization**: Developed interactive dashboards and visualizations in Tableau, facilitating an intuitive exploration of the data and findings.
+</p>
 
-## Findings
-Briefly summarize the key findings of your analysis. This might include correlations between economic indicators, trends over time, and any surprising insights into the wealth of nations.
+<div align="center"> <h1 align="center"> :slightly_smiling_face: DATA VISUALIZATION :slightly_smiling_face:	</h1> </div>
 
-## How to View the Project
-- The Tableau dashboards can be accessed through [https://public.tableau.com/app/profile/sab.mahato/viz/WealthofNations_17026845392600/WEALTHOFNATIONS].
-- For a deeper dive into the data and analysis, refer to the Excel files included in this repository.
+<b>I have also experience using these data visualization tools.<b>
 
+<p align="center">
+<a href="#" target="_blank"> <img src="https://matplotlib.org/stable/_images/sphx_glr_logos2_003.png" alt="Matplotlib" height="50"/> </a>
+<a href="#" target="_blank"> <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" height="50"/> </a>
+<a href="#" target="_blank"> <img src="https://github.com/yusufsjustit/yusufsjustit/assets/125282550/9005adc8-3771-428e-84b5-dfb116ae45b9" alt="Tableau" height="60"/> </a>
+<a href="#" target="_blank"> <img src="https://insightsoftware.com/wp-content/uploads/2018/03/blog-microsoft-power-bi-solid-color.jpg" alt="Microsoft Power BI" height="60"/> </a>
+</p>
+
+<div align="center"> <h1 align="center"> 👨 SOCIAL 👩 </h1> </div>
+<b>Lets connect</b>
+<p align="center">
+
+<a href="www.linkedin.com/in/sabindra-mahato-736012234"> 
+  <img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href=" https://public.tableau.com/app/profile/sab.mahato/vizzes">
+  <img align="center" src="https://img.shields.io/badge/-Tableau-1e376b?style=for-the-badge&logo=tableau&logoColor=white"  />
+</a>
+
+<a href="mailto:sabindra79@gmail.com ">  
+  <img align="center" src="https://img.shields.io/badge/gmail-f1f2f6.svg?&style=for-the-badge&logo=gmail&logoColor=red"  />
+</a>
+
+</p>
 
 
