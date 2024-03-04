@@ -20,9 +20,6 @@ The "Wealth of Nations" dataset includes a variety of economic indicators such a
 2. **Data Analysis**: Conducted both descriptive and inferential statistical analysis to understand the underlying patterns and relationships within the data.
 3. **Visualization**: Developed interactive dashboards and visualizations in Tableau, facilitating an intuitive exploration of the data and findings.
 
-## Findings
-Briefly summarize the key findings of your analysis. This might include correlations between economic indicators, trends over time, and any surprising insights into the wealth of nations.
-
 ## How to View the Project
 - The Tableau dashboards can be accessed through [https://public.tableau.com/app/profile/sab.mahato/vizzes].
 - For a deeper dive into the data and analysis, refer to the Excel files included in this repository.
